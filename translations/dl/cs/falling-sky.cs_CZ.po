@@ -252,7 +252,7 @@ msgstr ""
 
 #: "inc/messages.js"
 msgid "faq: Browser Plugins"
-msgstr ""
+msgstr "faq: Pluginy Prohlížeče"
 
 #: "inc/messages.js"
 msgid "faq: Firefox Add-Ons"
@@ -460,7 +460,7 @@ msgstr "Je vyžadován JavaScript"
 
 #: "inc/js_required.inc"
 msgid "This site requires JavaScript, as well as the ability to pull in cross-site scripts, in order to perform the testing."
-msgstr ""
+msgstr "Tato stránka vyžaduje pro spuštění testu JavaScript a také možnost načíst skripty z neznámých zdrojů."
 
 #: "inc/js_required.inc"
 msgid "If this message does not go away, it means that JavaScript has been disabled, either by a plugin or extension in your browser, or by explicit browser setting."
@@ -732,7 +732,7 @@ msgstr ""
 
 #: "main/helpdesk.inc"
 msgid "On most computers, you can right-click the above URL, and select 'Copy'."
-msgstr ""
+msgstr "Na většině počítačů můžete kliknout pravým tlačítkem na URL a zvolit 'Zkopírovat'."
 
 #: "inc/sites.inc"
 msgid "<b>Because you have IPv6</b>, we've added this tab to show you whether or not you can reach other IPv6 web sites on the Internet. Consider notifying your ISP, if there are sites that show up as broken. If you are the ISP, you can click the Info link to see what test URLs are being used."
@@ -824,7 +824,7 @@ msgstr ""
 
 #: "faq_helpdesk.html"
 msgid "IP address shown, in case tech support needs it."
-msgstr ""
+msgstr "IP adresa se v případě potřeby technickou podporou zobrazuje."
 
 #: "faq_helpdesk.html"
 msgid "List of unreachable sites, if any"
@@ -928,7 +928,7 @@ msgstr "Uživatelé Macu: pro zlepšenou podporu IPv6 se doporučuje Apple OS X 
 
 #: "faq/staycurrent.inc"
 msgid "Mac users on 10.4 or 10.5 may need to disable IPv6 if other troubleshooting steps fail."
-msgstr ""
+msgstr "Užavetelé Macu na verzi 10.4 nebo 10.5 možná budou muset vypnout IPv6, pokud selhaly ostatní řešení."
 
 #: "faq/staycurrent.inc"
 msgid "Windows users: go to"
@@ -936,7 +936,7 @@ msgstr "Uživatelé Windows: přejděte na"
 
 #: "faq/staycurrent.inc"
 msgid "iPhone/iPad users: No specific version advised at this time."
-msgstr ""
+msgstr "iPhone/iPad uživatelé: Žádná specifická verze nyní není doporučená."
 
 #: "faq/staycurrent.inc"
 msgid "Routers - Make sure you have the latest firmware installed. Some vendors have updated the defaults, or put in health checks before enabling IPv6."
@@ -960,7 +960,7 @@ msgstr ""
 
 #: "faq/staycurrent.inc"
 msgid "Opera: Make sure you use at least 11.10."
-msgstr ""
+msgstr "Opera: Ujistěte se, že používáte alespoň verzo 11.10."
 
 #: "broken.html"
 msgid "Finding your IP address"
@@ -1024,7 +1024,7 @@ msgstr ""
 
 #: "faq/find_ip.inc"
 msgid "To see your IP addresses: <code>ifconfig -f inet6</code>."
-msgstr ""
+msgstr "Pro zobrazení vaší IP adresy: <code>ifconfig -f inet6</code>."
 
 #: "faq/find_ip.inc"
 msgid "Ignore the <code>fe80:</code> addresses; look for any other address on your <code>en0</code> or <code>en1</code>."
@@ -1092,7 +1092,7 @@ msgstr "Uživatelé grafického prostředí  Windows 7:"
 
 #: "faq/find_ip.inc"
 msgid "Go to the start menu"
-msgstr ""
+msgstr "Běžte do Start menu"
 
 #: "faq/find_ip.inc"
 msgid "Go to the control panel"
@@ -1100,27 +1100,27 @@ msgstr "Otevřete Panel nástrojů"
 
 #: "faq/find_ip.inc"
 msgid "Go to \"Network and Internet\""
-msgstr ""
+msgstr "Běžte do \"Síť a internet\""
 
 #: "faq/find_ip.inc"
 msgid "Go to \"View network status and tasks\""
-msgstr ""
+msgstr "Klikněte na \"Zobrazit úlohy a stav sítě\""
 
 #: "faq/find_ip.inc"
 msgid "Go to \"Change adapter settings\"."
-msgstr ""
+msgstr "Klikněte na \"Změnit nastavení adaptéru\""
 
 #: "faq/find_ip.inc"
 msgid "Go to your main Internet connection, double click"
-msgstr ""
+msgstr "Najděte Vaše hlavní připojení k interneru (Wi-Fi, Ethernet atd.), dvakrát klikněte"
 
 #: "faq/find_ip.inc"
 msgid "Go to \"Details\""
-msgstr ""
+msgstr "Klikněte na \"Podrobnosti\""
 
 #: "faq/find_ip.inc"
 msgid "Look for \"IPv6 Address\" and \"IPv6 Default Gateway\""
-msgstr ""
+msgstr "Najděte \"IPv6 Adresa\" a \"Výchozí brána IPv6\""
 
 #: "faq/find_ip.inc"
 msgid "Other Windows based OS's: Send jfesler@test-ipv6.com detailed instructions; and I'll add them to the site."
